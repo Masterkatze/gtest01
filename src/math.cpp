@@ -1,4 +1,4 @@
-#include "square.hpp"
+#include "math.hpp"
 
 int square(int in)
 {
